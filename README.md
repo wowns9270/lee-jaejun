@@ -6,3 +6,4 @@
 Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=00599C)
+https://wowns9270.tistory.com/
