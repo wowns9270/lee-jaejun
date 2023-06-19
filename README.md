@@ -3,7 +3,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wowns1856)](https://solved.ac/wowns1856/)
 
-Languages
+stack
 
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=00599C)
+
+
 https://wowns9270.tistory.com/
